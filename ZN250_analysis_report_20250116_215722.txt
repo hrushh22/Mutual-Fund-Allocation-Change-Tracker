@@ -1,0 +1,45 @@
+Mutual Fund Analysis Report - ZN250
+Generated on: 2025-01-16 21:57:22
+
+Analysis Parameters:
+Date Range: 2024-09-01 to 2024-11-01
+Minimum Weight Change Threshold: 0.1%
+
+Loaded portfolio: ZN250 - Monthly Portfolio November 2024.xlsx
+
+Loaded portfolio: ZN250 - Monthly Portfolio September 2024.xlsx
+
+
+Detailed Analysis Report for ZN250
+==================================================
+
+Period: September 2024 to November 2024
+------------------------------
+
+Portfolio Value Changes:
+Previous Value: ₹62,693.61 Lakhs
+New Value: ₹70,612.49 Lakhs
+Absolute Change: ₹7,918.88 Lakhs
+Percentage Change: 12.63%
+
+New Entries:
+- UPL Limited - RIGHTS (Fertilizers & Agrochemicals) - 0.00%
+
+Exits:
+- None
+
+Significant Weight Changes:
+- No significant weight changes
+
+Sector Allocation Changes:
+
+==================================================
+
+
+Visualizations have been saved in the following directory:
+C:\Users\hrush\Desktop\LD_tech\visualizations
+
+Generated visualizations:
+1. Portfolio Value Trend (portfolio_value_trend.png)
+2. Top 10 Holdings for each period
+3. Sector Distribution Pie Charts
